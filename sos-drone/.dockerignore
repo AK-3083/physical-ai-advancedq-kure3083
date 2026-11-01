@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!requirements-train.txt
+!pid-initialization.patch
+!scripts/
+scripts/*
+!scripts/prepare_workspace.py

@@ -1,0 +1,12 @@
+diff --git a/sjtu_drone_description/src/pid_controller.cpp b/sjtu_drone_description/src/pid_controller.cpp
+--- a/sjtu_drone_description/src/pid_controller.cpp
++++ b/sjtu_drone_description/src/pid_controller.cpp
+@@ -16,7 +16,7 @@
+ 
+ PIDController::PIDController()
+ {
+-
++  reset();
+ }
+ 
+ PIDController::~PIDController()

@@ -1,0 +1,436 @@
+{
+  "flight_wall_seconds": 171.4594025569968,
+  "capture_times": [
+    {
+      "wall_seconds": 24.4,
+      "index": 0,
+      "target": [
+        11.980590451613299,
+        3.7608653985753477,
+        9.434779908913665
+      ],
+      "pose": [
+        12.01152922803796,
+        3.7500527444565677,
+        9.454037685233478
+      ],
+      "time": 27.356,
+      "observations": [
+        {
+          "pixel": [
+            246,
+            128,
+            151,
+            119
+          ],
+          "x": 11.980519933381906,
+          "y": 3.7300730113487663,
+          "score": 0.9999791383743286,
+          "z": 4.459779908952456
+        }
+      ],
+      "candidates": [
+        {
+          "pixel": [
+            246,
+            128,
+            151,
+            119
+          ],
+          "score": 0.9999791383743286,
+          "x": 11.980519933381906,
+          "y": 3.7300730113487663,
+          "z": 4.459779908952456
+        }
+      ],
+      "raw_image": "raw_00.png",
+      "survey": 0
+    },
+    {
+      "wall_seconds": 27.8,
+      "index": 1,
+      "target": [
+        11.980590451613299,
+        3.4108653985753477,
+        9.434779908913665
+      ],
+      "pose": [
+        11.978345085595203,
+        3.3718740844306536,
+        9.453981032832935
+      ],
+      "time": 30.572,
+      "observations": [
+        {
+          "pixel": [
+            202,
+            123,
+            151,
+            118
+          ],
+          "x": 11.980054318027625,
+          "y": 3.7283529287477415,
+          "score": 0.9998693466186523,
+          "z": 4.459779908929103
+        }
+      ],
+      "candidates": [
+        {
+          "pixel": [
+            202,
+            123,
+            151,
+            118
+          ],
+          "score": 0.9998693466186523,
+          "x": 11.980054318027625,
+          "y": 3.7283529287477415,
+          "z": 4.459779908929103
+        }
+      ],
+      "raw_image": "raw_01.png",
+      "survey": 0
+    },
+    {
+      "wall_seconds": 31.0,
+      "index": 2,
+      "target": [
+        11.980590451613299,
+        4.110865398575347,
+        9.434779908913665
+      ],
+      "pose": [
+        11.98058321944807,
+        4.159283017047116,
+        9.45352394132766
+      ],
+      "time": 34.308,
+      "observations": [
+        {
+          "pixel": [
+            292,
+            120,
+            151,
+            118
+          ],
+          "x": 11.976998605194611,
+          "y": 3.7316618881733694,
+          "score": 0.9999880790710449,
+          "z": 4.45977990880466
+        }
+      ],
+      "candidates": [
+        {
+          "pixel": [
+            292,
+            120,
+            151,
+            118
+          ],
+          "score": 0.9999880790710449,
+          "x": 11.976998605194611,
+          "y": 3.7316618881733694,
+          "z": 4.45977990880466
+        }
+      ],
+      "raw_image": "raw_02.png",
+      "survey": 0
+    },
+    {
+      "wall_seconds": 83.0,
+      "index": 3,
+      "target": [
+        60.00729952838661,
+        -0.7792685524384847,
+        25.0
+      ],
+      "pose": [
+        60.009396174474716,
+        -0.8378556346367714,
+        25.01826346005761
+      ],
+      "time": 85.512,
+      "observations": [
+        {
+          "pixel": [
+            233,
+            105,
+            161,
+            151
+          ],
+          "x": 60.009202620359126,
+          "y": -0.7772309525838342,
+          "score": 0.9999070167541504,
+          "z": 20.024999999995913
+        }
+      ],
+      "candidates": [
+        {
+          "pixel": [
+            94,
+            126,
+            88,
+            78
+          ],
+          "score": 3.853190477798307e-08,
+          "x": 60.14121855952506,
+          "y": 0.8038673553805857,
+          "z": 20.024999999951838
+        },
+        {
+          "pixel": [
+            233,
+            105,
+            161,
+            151
+          ],
+          "score": 0.9999070167541504,
+          "x": 60.009202620359126,
+          "y": -0.7772309525838342,
+          "z": 20.024999999995913
+        }
+      ],
+      "raw_image": "raw_03.png",
+      "survey": 1
+    },
+    {
+      "wall_seconds": 86.4,
+      "index": 4,
+      "target": [
+        60.00729952838661,
+        -1.1292685524384847,
+        25.0
+      ],
+      "pose": [
+        60.00725649229747,
+        -1.162349640256513,
+        25.019325019068454
+      ],
+      "time": 88.916,
+      "observations": [
+        {
+          "pixel": [
+            196,
+            105,
+            160,
+            150
+          ],
+          "x": 60.00993986601202,
+          "y": -0.7772486280594539,
+          "score": 0.9998306035995483,
+          "z": 20.025000000113135
+        }
+      ],
+      "candidates": [
+        {
+          "pixel": [
+            57,
+            126,
+            87,
+            78
+          ],
+          "score": 3.941746129498824e-08,
+          "x": 60.13732887181944,
+          "y": 0.8020714075678472,
+          "z": 20.02500000010531
+        },
+        {
+          "pixel": [
+            196,
+            105,
+            160,
+            150
+          ],
+          "score": 0.9998306035995483,
+          "x": 60.00993986601202,
+          "y": -0.7772486280594539,
+          "z": 20.025000000113135
+        }
+      ],
+      "raw_image": "raw_04.png",
+      "survey": 1
+    },
+    {
+      "wall_seconds": 90.0,
+      "index": 5,
+      "target": [
+        60.00729952838661,
+        -0.4292685524384847,
+        25.0
+      ],
+      "pose": [
+        60.00729538157597,
+        -0.3724518128437192,
+        25.018557464538272
+      ],
+      "time": 92.536,
+      "observations": [
+        {
+          "pixel": [
+            285,
+            106,
+            160,
+            150
+          ],
+          "x": 60.00470741650044,
+          "y": -0.7688875370035649,
+          "score": 0.9998972415924072,
+          "z": 20.02499999989292
+        }
+      ],
+      "candidates": [
+        {
+          "pixel": [
+            146,
+            126,
+            88,
+            78
+          ],
+          "score": 4.092658301146912e-08,
+          "x": 60.141295300154034,
+          "y": 0.8082997534102366,
+          "z": 20.025000000104285
+        },
+        {
+          "pixel": [
+            285,
+            106,
+            160,
+            150
+          ],
+          "score": 0.9998972415924072,
+          "x": 60.00470741650044,
+          "y": -0.7688875370035649,
+          "z": 20.02499999989292
+        }
+      ],
+      "raw_image": "raw_05.png",
+      "survey": 1
+    }
+  ],
+  "scheme": "color",
+  "external_camera": "Fixed Gazebo GUI view",
+  "recording_source": "gazebo_composite",
+  "source_video_size": [
+    1920,
+    1080
+  ],
+  "source_codec": "FFV1 lossless",
+  "phase_events": [
+    {
+      "wall_seconds": 6.6,
+      "time": 9.7,
+      "phase": "searching"
+    },
+    {
+      "wall_seconds": 17.6,
+      "time": 20.7,
+      "phase": "detected",
+      "point": [
+        11.980590451613299,
+        3.7608653985753477,
+        4.459779908836555
+      ],
+      "survey": 0
+    },
+    {
+      "wall_seconds": 31.0,
+      "time": 34.3,
+      "phase": "searching"
+    },
+    {
+      "wall_seconds": 78.4,
+      "time": 81.1,
+      "phase": "detected",
+      "point": [
+        60.00729952838661,
+        -0.7792685524384847,
+        20.024999999891783
+      ],
+      "survey": 1
+    },
+    {
+      "wall_seconds": 90.0,
+      "time": 92.5,
+      "phase": "searching"
+    },
+    {
+      "wall_seconds": 90.0,
+      "time": 92.7,
+      "phase": "returning"
+    }
+  ],
+  "status": "complete",
+  "sites": 2,
+  "return_method": "direct",
+  "exploration_method": "cnn_triggered",
+  "viewport": {
+    "window_id": "0x2e00004",
+    "width": 1630,
+    "height": 860
+  },
+  "color_comparison": {
+    "color_only_false_candidates": 13,
+    "cnn_false_candidates": 0,
+    "visible_marker_candidates": 10,
+    "cnn_marker_candidates": 10,
+    "same_color_only_reports": 0,
+    "negative_categories": {
+      "flower": {
+        "color_only": 5,
+        "cnn": 0
+      },
+      "clothing": {
+        "color_only": 8,
+        "cnn": 0
+      }
+    }
+  },
+  "video_seconds": 138.7,
+  "source_video_seconds": 179.4,
+  "processing": "Continuous full flight; variable speed; no travel cuts",
+  "speed_segments": [
+    {
+      "source_start": 0.0,
+      "source_end": 90.0,
+      "speed": 1.0,
+      "output_start": 0.0,
+      "output_end": 90.0
+    },
+    {
+      "source_start": 90.0,
+      "source_end": 171.4,
+      "speed": 2.0,
+      "output_start": 90.0,
+      "output_end": 130.7
+    },
+    {
+      "source_start": 171.4,
+      "source_end": 179.4,
+      "speed": 1.0,
+      "output_start": 130.7,
+      "output_end": 138.7
+    }
+  ],
+  "output_fps": 20,
+  "video_size": [
+    1920,
+    1080
+  ],
+  "output_crf": 16,
+  "intermediate_codec": "FFV1 lossless",
+  "playback_speed_policy": "Before returning: 1x; returning through landing: 2x; final hold: 1x",
+  "return_speed_start_seconds": 90.0,
+  "final_hold_seconds": 8,
+  "annotations": true,
+  "video_file": "color-marker-demo-no-subtitles.mp4",
+  "subtitles": false,
+  "annotation_source": "Candidate and CNN inference on the displayed 640x360 camera frame",
+  "annotation_end_source_seconds": 156.4594025569968,
+  "annotation_style": {
+    "candidate": "#ffd000",
+    "cnn": "#00ff70",
+    "candidate_width_720p": 2,
+    "cnn_width_720p": 3
+  }
+}

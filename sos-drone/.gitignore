@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+output/
+/runs/
+/assets/
+/deliverables/*
+!/deliverables/color-marker-demo-no-subtitles.mp4
+!/deliverables/color-demo-metadata.json
+*.pyc
+/README-detailed.md
+/tests/

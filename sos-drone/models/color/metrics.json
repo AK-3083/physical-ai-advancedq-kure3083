@@ -1,0 +1,52 @@
+{
+  "threshold": 0.7,
+  "test_confusion": [
+    [
+      500,
+      0
+    ],
+    [
+      0,
+      500
+    ]
+  ],
+  "onnx_max_logit_difference": 3.814697265625e-06,
+  "scheme": "color",
+  "train_count": 6000,
+  "validation_count": 1000,
+  "test_count": 1000,
+  "epochs": 24,
+  "seeds": [
+    101,
+    202,
+    303
+  ],
+  "scope": "Procedural marker crops; Gazebo evaluation is separate",
+  "negative_categories": {
+    "flower": {
+      "count": 100,
+      "false_positives": 0,
+      "rejection_rate": 1.0
+    },
+    "clothing": {
+      "count": 100,
+      "false_positives": 0,
+      "rejection_rate": 1.0
+    },
+    "plain": {
+      "count": 100,
+      "false_positives": 0,
+      "rejection_rate": 1.0
+    },
+    "wrong": {
+      "count": 100,
+      "false_positives": 0,
+      "rejection_rate": 1.0
+    },
+    "checker": {
+      "count": 100,
+      "false_positives": 0,
+      "rejection_rate": 1.0
+    }
+  }
+}

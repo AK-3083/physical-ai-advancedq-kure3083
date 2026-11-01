@@ -1,0 +1,14 @@
+name: pai-sos-mountain
+services:
+  desktop:
+    build: .
+    image: pai-sos-desktop
+    container_name: pai-sos-mountain
+    ports:
+      - "127.0.0.1:6082:80"
+    shm_size: 1gb
+    environment:
+      ROS_DOMAIN_ID: "78"
+      LIBGL_ALWAYS_SOFTWARE: "1"
+    volumes:
+      - .:/workspace/sos
